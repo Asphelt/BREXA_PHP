@@ -26,6 +26,10 @@
                     <i class="fas fa-home"></i>
                     <span>Dashboard</span>
                 </a>
+                <a href="contabilidad.php" class="menu-item">
+                    <i class="fa fa-credit-card-alt"></i>
+                    <span>Contabilidad</span>
+                </a>
                 <a href="#" class="menu-item">
                     <i class="fas fa-chart-bar"></i>
                     <span>Analiticas</span>
